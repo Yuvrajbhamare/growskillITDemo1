@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 I am master                         I am master 
 I am master                         I am payment
+=======
+I am master
+git config --global user.name "Yuvraj"
+git config --global user.email "yuvrajbhamare11@gmail.com"
+
+git config --list
+i am payment 10 sept 26
+payment
