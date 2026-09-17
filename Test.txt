@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 comment1
 comment2
 
+=======
+>>>>>>> 66424cf (comment1)
 
